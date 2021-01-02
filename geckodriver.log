@@ -1215,3 +1215,651 @@ JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 1608747243769	Marionette	INFO	Stopped listening on port 39469
+1608784118948	geckodriver	INFO	Listening on 127.0.0.1:56083
+1608784119927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqjANNi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608784137570	Marionette	INFO	Listening on port 43889
+1608784137902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAMAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oGGqxGurWz2JY8qtjAXNK7dU4yo1w, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAMAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oGGqxGurWz2JY8qtjAXNK7dU4yo1w, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAMAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oGGqxGurWz2JY8qtjAXNK7dU4yo1w, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAMAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oGGqxGurWz2JY8qtjAXNK7dU4yo1w, line 596: TypeError: ta`p1yihc`
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608784442773	Marionette	INFO	Stopped listening on port 43889
+1608784688657	geckodriver	INFO	Listening on 127.0.0.1:46479
+1608784689683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTRGia0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608784697341	Marionette	INFO	Listening on port 46481
+1608784697475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1608784750270	Marionette	INFO	Stopped listening on port 46481
+1608784801984	geckodriver	INFO	Listening on 127.0.0.1:35489
+1608784803000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ8o9Km"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608784810384	Marionette	INFO	Listening on port 38479
+1608784810586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608784923940	Marionette	INFO	Stopped listening on port 38479
+1608785490377	geckodriver	INFO	Listening on 127.0.0.1:58167
+1608785491403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1xX5ye"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608785498767	Marionette	INFO	Listening on port 41995
+1608785498899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608785549409	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:330:29
+
+1608785675988	Marionette	INFO	Stopped listening on port 41995
+1608788547879	geckodriver	INFO	Listening on 127.0.0.1:49375
+1608788547886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9poo6q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608788552964	Marionette	INFO	Listening on port 43347
+1608788553075	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1608788593947	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608788740065	Marionette	INFO	Stopped listening on port 43347
+1609507540445	geckodriver	INFO	Listening on 127.0.0.1:36665
+1609507541451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqdhSUE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609507550179	Marionette	INFO	Listening on port 39475
+1609507550357	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609507663336	geckodriver	INFO	Listening on 127.0.0.1:38357
+1609507663359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileejKH5i"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609507671759	Marionette	INFO	Listening on port 46403
+1609507672027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609507973447	geckodriver	INFO	Listening on 127.0.0.1:60307
+1609507974479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNpwMnX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609507988507	Marionette	INFO	Listening on port 39893
+1609507988879	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: , line 0: uncaught exception: 7
+1609510887543	geckodriver	INFO	Listening on 127.0.0.1:58401
+1609510887558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP8F8l9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609510896372	Marionette	INFO	Listening on port 40681
+1609510896688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: 7
+1609510970117	geckodriver	INFO	Listening on 127.0.0.1:53051
+1609510970131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0crpUA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609510979234	Marionette	INFO	Listening on port 35243
+1609510979540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609511134140	geckodriver	INFO	Listening on 127.0.0.1:56621
+1609511134156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUYTH0r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609511144182	Marionette	INFO	Listening on port 46445
+1609511144487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609511204996	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609511211867	Marionette	INFO	Stopped listening on port 46445
+1609511366182	geckodriver	INFO	Listening on 127.0.0.1:33063
+1609511366198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley64mT2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609511375582	Marionette	INFO	Listening on port 33269
+1609511375956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609511429026	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609511594983	geckodriver	INFO	Listening on 127.0.0.1:58149
+1609511594999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile73cxDo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609511603962	Marionette	INFO	Listening on port 45931
+1609511604147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609511847825	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609511919377	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609512044315	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609512161178	Marionette	INFO	Stopped listening on port 45931
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609514948286	geckodriver	INFO	Listening on 127.0.0.1:38039
+1609514949281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile24T8ej"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609514955686	Marionette	INFO	Listening on port 45355
+1609514955992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609515001799	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609515285337	geckodriver	INFO	Listening on 127.0.0.1:37437
+1609515285352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN6Jn7r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609515292477	Marionette	INFO	Listening on port 44215
+1609515292848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609515335848	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609515619497	geckodriver	INFO	Listening on 127.0.0.1:37801
+1609515620504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKF6o9n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609515627167	Marionette	INFO	Listening on port 36305
+1609515627320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609515641242	Marionette	INFO	Stopped listening on port 36305
+1609515650493	geckodriver	INFO	Listening on 127.0.0.1:33579
+1609515651504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecHgBvE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609515656791	Marionette	INFO	Listening on port 45487
+1609515656955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609515666242	Marionette	INFO	Stopped listening on port 45487
+1609515995166	geckodriver	INFO	Listening on 127.0.0.1:38751
+1609515995181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile12V67B"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609516001765	Marionette	INFO	Listening on port 42357
+1609516001887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609516013565	Marionette	INFO	Stopped listening on port 42357
+1609521194128	geckodriver	INFO	Listening on 127.0.0.1:33045
+1609521195138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemWTnzx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609521200540	Marionette	INFO	Listening on port 44627
+1609521200664	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609521231394	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609521342131	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609521482947	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609521494134	Marionette	INFO	Stopped listening on port 44627
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609522429348	geckodriver	INFO	Listening on 127.0.0.1:48043
+1609522429355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4JGYtB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609522435245	Marionette	INFO	Listening on port 37119
+1609522435419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609522935247	Marionette	INFO	Stopped listening on port 37119
+1609523202980	geckodriver	INFO	Listening on 127.0.0.1:34889
+1609523202995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFRDWNy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609523208324	Marionette	INFO	Listening on port 41997
+1609523208424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609523311477	geckodriver	INFO	Listening on 127.0.0.1:43605
+1609523312488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAcCtu4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609523318692	Marionette	INFO	Listening on port 40075
+1609523318852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1609523391200	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAMAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oGGqxGurWz2JY8qtjAXNK7dU4yo1w, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAMAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oGGqxGurWz2JY8qtjAXNK7dU4yo1w, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAMAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oGGqxGurWz2JY8qtjAXNK7dU4yo1w, line 596: TypeError: ta`p1yihc`
+1609523633890	Marionette	INFO	Stopped listening on port 40075
+1609523718448	geckodriver	INFO	Listening on 127.0.0.1:37061
+1609523718495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea5JaWd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609523730372	Marionette	INFO	Listening on port 40645
+1609523730694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609524249473	Marionette	INFO	Stopped listening on port 40645
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609524574922	geckodriver	INFO	Listening on 127.0.0.1:50605
+1609524575966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegORwto"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609524584951	Marionette	INFO	Listening on port 46799
+1609524585234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609524766557	geckodriver	INFO	Listening on 127.0.0.1:40013
+1609524766594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWEDMqg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609524778055	Marionette	INFO	Listening on port 36065
+1609524778361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609524809076	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1609524831177	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609524878628	geckodriver	INFO	Listening on 127.0.0.1:48817
+1609524879650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWaGTkQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609524890429	Marionette	INFO	Listening on port 37641
+1609524890685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609525431851	Marionette	INFO	Stopped listening on port 37641
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1609525538655	geckodriver	INFO	Listening on 127.0.0.1:34523
+1609525539685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUhn72Y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609525550948	Marionette	INFO	Listening on port 40075
+1609525551092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1609525753478	Marionette	INFO	Stopped listening on port 40075
+1609525757652	geckodriver	INFO	Listening on 127.0.0.1:38803
+1609525758684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelAqnlU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609525767530	Marionette	INFO	Listening on port 45075
+1609525767702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609525930708	geckodriver	INFO	Listening on 127.0.0.1:54423
+1609525931742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5SI7gj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609525941182	Marionette	INFO	Listening on port 40123
+1609525941500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1609526060723	geckodriver	INFO	Listening on 127.0.0.1:43183
+1609526061765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRhFFuW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609526093548	Marionette	INFO	Listening on port 36283
+1609526094274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609560639375	geckodriver	INFO	Listening on 127.0.0.1:43211
+1609560640371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC78a2G"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609560649791	Marionette	INFO	Listening on port 33759
+1609560650131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609560744394	Marionette	INFO	Stopped listening on port 33759
+1609561545024	geckodriver	INFO	Listening on 127.0.0.1:37669
+1609561546052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepzV11x"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609561554442	Marionette	INFO	Listening on port 46627
+1609561554643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.somplo.com/prod/test/251119/new-tag.min.js?cb=8, line 279: unreachable code after return statement
+1609561785598	Marionette	INFO	Stopped listening on port 46627
+1609561785856	geckodriver	INFO	Listening on 127.0.0.1:41881
+1609561785880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehukhNN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609561794455	Marionette	INFO	Listening on port 42313
+1609561794584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609561942092	geckodriver	INFO	Listening on 127.0.0.1:42795
+1609561943120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileShHdTO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609561951965	Marionette	INFO	Listening on port 43099
+1609561952225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609562204676	Marionette	INFO	Stopped listening on port 43099
+1609562226840	geckodriver	INFO	Listening on 127.0.0.1:45655
+1609562226867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWdH6gl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609562235359	Marionette	INFO	Listening on port 43895
+1609562235518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609562264730	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609562286726	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609562486194	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609562508729	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609562724168	geckodriver	INFO	Listening on 127.0.0.1:48223
+1609562724190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenlk2ma"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609562732017	Marionette	INFO	Listening on port 44285
+1609562732235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609562784447	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609562807055	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIDACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oFGsmhNCMbpeXJ8biBy-nj1rs_48g, line 596: TypeError: ta`p1yihc`
+1609562906895	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609562929191	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIDACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oFGsmhNCMbpeXJ8biBy-nj1rs_48g, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIDACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oFGsmhNCMbpeXJ8biBy-nj1rs_48g, line 596: TypeError: ta`p1yihc`
+1609563271031	Marionette	INFO	Stopped listening on port 44285
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609563394295	geckodriver	INFO	Listening on 127.0.0.1:52423
+1609563395318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelmmPKQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609563403557	Marionette	INFO	Listening on port 40599
+1609563403693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1609563443241	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609563502643	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609563575361	Marionette	INFO	Stopped listening on port 40599
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609563724945	geckodriver	INFO	Listening on 127.0.0.1:44149
+1609563725975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHgujUo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609563733895	Marionette	INFO	Listening on port 38647
+1609563734191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609563767572	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609563790071	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609563941211	geckodriver	INFO	Listening on 127.0.0.1:45801
+1609563942241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKchLf0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609563950331	Marionette	INFO	Listening on port 36507
+1609563950660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609564196095	Marionette	INFO	Stopped listening on port 36507
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609564317483	Marionette	INFO	Stopped listening on port 38647
+1609567793778	geckodriver	INFO	Listening on 127.0.0.1:49067
+1609567794826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKmqziL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609567816589	Marionette	INFO	Listening on port 33151
+1609567816935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609567875007	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609567875869	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609567900644	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609567911467	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609567912276	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609567924855	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609567945945	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609567957315	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609567968985	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609567976651	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609567987522	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568006888	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568017690	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568029782	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609568040766	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568051689	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568065331	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609568088073	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568099075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568111055	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609568120502	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568131305	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568143625	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609568155437	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568167040	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568178795	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609568185943	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568196839	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568197714	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568224722	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568225941	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568255069	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568272094	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609568282871	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568299396	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568310208	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609568322488	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609568327853	Marionette	INFO	Stopped listening on port 33151
+1609605828509	geckodriver	INFO	Listening on 127.0.0.1:60715
+1609605829514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZjiBli"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609605839939	Marionette	INFO	Listening on port 36741
+1609605840343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609605894748	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609606158945	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609606335057	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.6A8voidSXis.O/ck=xjs.s.NSTCpSOUfvI.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAMABAAAAwBKYGyA4_0EAwAWXOAAAAACQAC0JGiUFSEgIAAEAAMiyUAIAACAAAAI/d=1/dg=2/ct=zgms/rs=ACT90oHxZ4d6hex9D9QMJM57hnsvkzjD9Q, line 596: TypeError: ta`p1yihc`
+1609606382050	Marionette	INFO	Stopped listening on port 36741
+1609608681556	geckodriver	INFO	Listening on 127.0.0.1:39113
+1609608681578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT7x9fo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609608689027	Marionette	INFO	Listening on port 42559
+1609608689162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609608792202	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609608938123	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609608966570	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609608988435	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609609088178	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609609161933	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609609291210	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609609318927	Marionette	INFO	Stopped listening on port 42559

@@ -5,28 +5,30 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 
 def calcreviews(url1):
-    #code comes here
-    driver.get(url1)
     try:
-    	driver.find_element_by_xpath(".//span[contains(@jscontroller,'h6wiFf')]").click()
-    	time.sleep(6)
-    	driver.find_element_by_xpath("/html/body/span/g-lightbox/div[2]/div[3]/span/div/div/div/div[1]/div[3]/div[2]/g-dropdown-menu/g-popup/div[1]/g-dropdown-button/span").click()
-    	driver.find_element_by_xpath("/html/body/div[7]/div[2]/div[6]/div/g-menu/g-menu-item[2]").click()
-    	time.sleep(6)
-    	it=3
-    	while(1):
-            new_url = "/html/body/span/g-lightbox/div[2]/div[3]/span/div/div/div/div[2]/div[1]/div[14]/div[2]/div["+it+"]/div"
-            elt = driver.find_element_by_xpath(new_url)
-            it+=1
-            times = elt.find_element_by_xpath(".//span[contains(@class,'dehysf lTi8oc')]").text
-            print(times)            
-            if(not(times.find('month')or times.find('months') or time.find('year') or time.find('years'))):
-                print("valid review"+times)
-            else:
-                break  
-    	return 1
+        #code comes here
+        driver.get(url1)
+        driver.find_element_by_xpath(".//span[contains(@jscontroller,'h6wiFf')]").click()
+        time.sleep(10)
+        driver.find_element_by_xpath("/html/body/span/g-lightbox/div[2]/div[3]/span/div/div/div/div[1]/div[3]/div[2]/g-dropdown-menu/g-popup/div[1]/g-dropdown-button/span").click()
+        driver.find_element_by_xpath("/html/body/div[7]/div[2]/div[6]/div/g-menu/g-menu-item[2]").click()
+        time.sleep(10)
+        date_list = driver.find_elements_by_xpath(".//span[contains(@class, 'dehysf lTi8oc')]")
+        stars_list = driver.find_elements_by_xpath(".//span[contains(@class, 'Fam1ne EBe2gf')]")
+        count = 0
+        total = 0.0
+        maximum = 10
+        for i in range(1,len(stars_list)):
+            timeline = date_list[i-1].text
+            if(timeline.find("month")==-1 and timeline.find("year")==-1):
+                num=float(stars_list[i].get_attribute("aria-label").split(" ")[1])
+                total+=num
+                count+=1
+        avg = round((total/count),2)
+        avg = avg * count/maximum
+        return avg
     except Exception as e:
-    	return 0
+        return 0.0
 
 # default path to file to store data
 path_to_file = "/home/ubuntuvm/fyp/reviews.csv"
